@@ -1,5 +1,5 @@
 # Hi there, I'm David Edward S 👋
-<mark>Application Developer | Specializing in Flutter</mark>
+<mark>Application Developer | Specializing in Flutter and React Native</mark>
 
 I am a skilled Flutter developer with a strong background in building cross-platform mobile applications. My expertise in Flutter enables me to create high-performance, visually appealing user interfaces efficiently. I have a proven track record of successfully developing innovative Flutter-based solutions.
 
